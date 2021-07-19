@@ -1,7 +1,7 @@
 # Video Frame Separator
 Simple script for separating frames from a .mp4 video file. This script can be useful for easily creating datasets.
 
-### Required Modules:
+### Required Module:
 - OpenCV 4.5.3.56
 
 ## Steps
